@@ -136,6 +136,7 @@ nav ul li a:hover:after {
 }
 
 footer p {
-    font-size: smaller;
     text-align: center;
+    font-size: x-small;
+
 }
