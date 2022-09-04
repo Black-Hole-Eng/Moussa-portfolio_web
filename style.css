@@ -119,3 +119,18 @@ nav ul li a:hover:after {
     margin-bottom: 30px;
     justify-content: baseline;
 }
+
+/*Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 70px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+/*Add a hover effect */
+.fa:hover {
+    opacity: 0.7;
+}
